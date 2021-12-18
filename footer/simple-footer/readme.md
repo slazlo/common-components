@@ -1,0 +1,1 @@
+Egyszerű footer verzió html és css kódja.
